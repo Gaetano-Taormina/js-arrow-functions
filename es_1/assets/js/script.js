@@ -1,3 +1,8 @@
-console.log('Esercizio 1 caricato con successo!');
+console.log('Exercise 1 loaded successfully!');
 
-// Scrivi qui le tue arrow functions
+const applyDiscount = prices => prices.map(price => price * 0.8);
+
+const prices = [21, 43, 74];
+const discounted = applyDiscount(prices);
+
+console.log(discounted); 

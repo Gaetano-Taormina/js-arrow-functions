@@ -1,3 +1,5 @@
-console.log('Esercizio 9 caricato con successo!');
+console.log('Exercise 9 loaded successfully!');
 
-// Scrivi qui le tue arrow functions
+const names = ["Marco", "Loris", "Eugen", "Giovanni"];
+
+names.forEach(name => console.log("Mr.", name));
