@@ -1,4 +1,4 @@
-﻿# Esercizio 2 / Exercise 2
+﻿# Esercizio 22 / Exercise 22
 
 **Italian:** data una lista di voti di esami, trova il primo esame non superato
 

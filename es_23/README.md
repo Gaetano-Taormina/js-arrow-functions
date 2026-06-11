@@ -1,4 +1,4 @@
-﻿# Esercizio 5 / Exercise 5
+﻿# Esercizio 23 / Exercise 23
 
 **Italian:** data una lista di parole, verifica che nessuna abbia un carattere maiuscolo
 
