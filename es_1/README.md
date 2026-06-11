@@ -6,10 +6,10 @@
 
 ## Ragionamento / Reasoning
 
-declare a function applyDiscount 
+declare a function applyDiscount
 
 * this function apply the discount on price's elements
 
-declare an array as list price 
+declare an array as list price
 using map apply the function for all elements of array
 print the result
